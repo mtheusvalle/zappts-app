@@ -1,0 +1,17 @@
+.container {
+
+  .content-image {
+    display: inline-block;
+  }
+
+  h2 {
+  font: var(--muli-regular-30);
+  color: var(--white);
+  margin: 0;
+  }
+
+  p {
+    font: var(--muli-regular-20);
+    color: var(--white);
+  }
+}
